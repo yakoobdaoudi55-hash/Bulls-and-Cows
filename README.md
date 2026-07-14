@@ -1,5 +1,5 @@
 # 🐂 Bulls and Cows 🐄
-![Game Screenshot](shots.png)
+![Game Screenshot](shots.jpg)
 
 Bulls and Cows is a simple and interactive number guessing game built with Python and Tkinter.
 
